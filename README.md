@@ -88,9 +88,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -107,9 +107,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -133,9 +133,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -167,9 +167,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -191,9 +191,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -214,9 +214,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -241,9 +241,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -268,9 +268,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -295,9 +295,9 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 유진</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
+    <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
@@ -322,16 +322,16 @@
   <tr>
   <td colspan=4 align=center>스터디원</td>
     <tr>
-  <td align="center"><img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
-   <td align="center"><img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
+  <td align="center"><a href="http://github.com/wil3992"/><img src=https://avatars.githubusercontent.com/u/128107225?v=4"/>
+   <td align="center"><a href="https://github.com/seungjaae"/><img src=https://avatars.githubusercontent.com/u/128060792?v=4"/>
      <td align="center"><a href="https://github.com/cho4u4o"/><img src=https://avatars.githubusercontent.com/u/128016678?v=4/></a></td>
-    <td align="center"><img src=https://avatars.githubusercontent.com/u/51479381?v=4"/>
+    <td align="center"><a href="https://github.com/ham0609"/><img src="https://avatars.githubusercontent.com/u/128105167?v=4"/>
   </tr>
     <tr>
-  <td align="center">이상현</td>
-  <td align="center">이승재</td>
+  <td align="center"><a href="http://github.com/wil3992"/>이상현</td>
+  <td align="center"><a href="https://github.com/seungjaae"/>이승재</td>
     <td align="center"><a href="https://github.com/cho4u4o"/>한유진</td>
-  <td align="center">함준혁</td>
+  <td align="center"><a href="https://github.com/ham0609"/>함준혁</td>
   </tr>
 </table>
   
