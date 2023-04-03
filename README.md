@@ -65,13 +65,13 @@
 
 <table align="center" width=100%>
   <tr>
-  <td colspan=2 align=center><b>OT</b><br/>3/31</td>
+  <td colspan=2 align=center><b>OT</b><br/>3/28</td>
   <td colspan=8 align=center>git 사용 방법 및  스터디 규칙 정하기</br>과제 관련 공지사항 전달 및 스터디 진행</td>
   </tr>
   <tr>
-    <td rowspan = "6" colspan = "2" align="center"><b>WEEK 2</b>
+    <td rowspan = "6" colspan = "2" align="center"><b>WEEK 1</b>
       <br>
-      3/27 ~ 4/1
+      3/28 ~ 4/1
     </td>
     <td colspan = "9" align="center">
     Unit 2. Visual Studio 설치</br>
@@ -86,7 +86,7 @@
   <tr>
 <td align="center">과제</td>
 <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2557"/>Hello World</td>
-<td colspan=2 align="center">Input/Output</td>
+<td colspan=2 align="center">[No Precondition]</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -110,7 +110,7 @@
   <tr>
 <td align="center">과제</td>
 <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10869"/>사칙연산</td>
-<td colspan=2 align="center">Math</td>
+<td colspan=2 align="center">[No Precondition]</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -124,19 +124,31 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 3</b>
+    <td rowspan = "5" colspan = "2" align="center"><b>WEEK 2</b>
       <br>
       4/3 ~ 4/9
     </td>
-    <td colspan = "9" align="center">5.1 if문 ~ 5.2 if문 활용과 switch문 ~ case문
-      <br>
-      6.1 while, for, do~while ~ 6.2 반복문 활용
+    <td colspan = "9" align="center">
+      Unit 17. if 조건문으로 특정 조건일 때 코드 실행하기<br/>
+      Unit 18. else를 사용하여 두 방향으로 분기하기<br/>
+      Unit 19. else if를 사용하여 여러 방향으로 분기하기<br/>
+      Unit 20. 비교 연산자와 삼항 연산자 사용하기<br/>
+      Unit 21. 논리 연산자 사용하기<br/>
+      Unit 22. 불 자료형 사용하기<br/>
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td rowspan=3 align="center">과제</td>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/9498"/>시험 성적</td>
+<td colspan=2 align="center">have to use 'if'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2884"/>알람 시계</td>
+<td colspan=2 align="center">have to use 'if'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2480"/>주사위 세개</td>
+<td colspan=2 align="center">have to use 'if'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -158,19 +170,39 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
+    <td rowspan = "7" colspan = "2" align="center"><b>WEEK 3</b>
       <br>
       4/24 ~ 4/30
     </td>
-    <td colspan = "9" align="center">7.1 함수의 작성과 사용 ~ 7.2 여러가지 함수 유형
-      <br>
-      8.1 배열의 선언과 사용 ~ 8.2 문자를 저장하는 배열
+    <td colspan = "9" align="center">
+    Unit 26. switch 분기문으로 다양한 조건 처리하기<br/>
+    Unit 27. for 반복문으로 Hello, world! 100번 출력하기<br/>
+    Unit 28. while 반복문으로 Hello, world! 100번 출력하기<br/>
+    Unit 29. do while 반복문으로 최소 한 번은 실행하기<br/>
+    Unit 30. break, continue로 반복문 제어하기<br/>
+    Unit 31. 계단식으로 별 출력하기
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td rowspan=5 align="center">과제</td>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2438"/>별 찍기 - 1</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2439"/>별 찍기 - 2</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2440"/>별 찍기 - 3</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2441"/>별 찍기 - 4</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2442"/>별 찍기 - 5</td>
+<td colspan=2 align="center">have to use 'for'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -184,7 +216,7 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 5</b>
+    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
       <br>
       5/1 ~ 5/7
     </td>
@@ -208,7 +240,7 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 6</b>
+    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 5</b>
       <br>
       5/8 ~ 5/14
     </td>
@@ -231,7 +263,7 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 7</b>
+    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 6</b>
       <br>
       5/15 ~ 5/21
     </td>
@@ -258,7 +290,7 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
+    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 7</b>
       <br>
       5/22 ~ 5/28
     </td>
@@ -285,7 +317,7 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 9</b>
+    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
       <br>
       5/29 ~
     </td>
