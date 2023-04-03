@@ -92,7 +92,7 @@
     <td align="center">성취도</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
-    <td align="center">🤍 유진</td>
+    <td align="center">💗 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
