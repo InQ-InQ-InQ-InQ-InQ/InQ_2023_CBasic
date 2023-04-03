@@ -92,7 +92,7 @@
     <td align="center">성취도</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
-    <td align="center">💗 유진</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_2557.c"/>💗 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
