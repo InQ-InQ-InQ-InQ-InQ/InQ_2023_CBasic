@@ -11,12 +11,12 @@
 
 3. 과제를 수행하고, 본인의 fork 레포지토리에 `git push`. [과제 컨벤션](#📝-제출-과제-컨벤션) 반드시 지켜주세요!
   
-  - .gitignore 파일을 이용하여, 과제 파일을 제외한 다른 파일이 저장소에 올라가지 않게 해주세요.
-  - 커밋 및 PR 컨벤션을 반드시 지켜주세요.
+     - `.gitignore` 파일을 이용하여, 과제 파일을 제외한 다른 파일이 저장소에 올라가지 않게 해주세요.
+     - 커밋 및 PR 컨벤션을 반드시 지켜주세요.
 
 4. InQ 그룹의 `InQ_2023_CBasic`으로 `pull request`를 생성.
-  - 스터디 초반, git 및 협업관리 툴, 컴파일러 등 질문이 있으시다면, 팀장에게 꼭! 문의 후 진행해주세요.
-  - 과제 진행 간 어려웠던 점, 설명받고 싶은 점 등을 적어주신다면 차후 피드백 스터디에 큰 도움이 됩니다.
+     - 스터디 초반, git 및 협업관리 툴, 컴파일러 등 질문이 있으시다면, 팀장에게 꼭! 문의 후 진행해주세요.
+     - 과제 진행 간 어려웠던 점, 설명받고 싶은 점 등을 적어주신다면 차후 피드백 스터디에 큰 도움이 됩니다.
 
 5. `Main` 브랜치의 `force push`를 포함한 모든 `push`를 엄격히 제한합니다.
    
@@ -33,19 +33,15 @@
   - 문제번호는 백준(BOJ) 사이트 주소창에서 확인할 수 있습니다.
 
 - gitignore 초기 설정
-    - .gitignore
-    - .D - .idea
-    - 과제물을 제외한 모든 IDE 설정 파일 및 기타 파일 등
+    - `.gitignore`
+    - `.idea`
+    - 과제물을 제외한 `모든 IDE 설정 파일 및 기타 파일` 등
 
 <br/>
 
 ## 👽️ 사용 강의
 
-- 혼자 공부하는 C 언어 저자에게 배우는 C 언어의 모든 것 (한빛미디어)
-
-    - https://www.inflearn.com/course/c언어-온라인강좌
-
-- 해당 강의를 사용하여 수업을 진행 할 예정이니, 정해진 주차의 강의를 들어주시길 바랍니다!
+  - [C언어  코딩도장](https://dojang.io/course/view.php?id=2)
 
 <br/>
 
@@ -55,6 +51,7 @@
 - 문의 사항/개선점/특이사항은 팀장한테 언제든지 카카오톡으로 문의 주시기 바랍니다!
 - github의 Code Review 기능을 이용해, merge 전에 다른 스터디원의 코드를 자유롭게 리뷰해보세요!
 -  **`🤍 진행중` / `❤️‍🩹 일부 완료` / `💗 제출 완료` / `🖤 미제출`**
+
      - 스터디 원의 학습 현황을 주차 별로 이모지를 활용해 README에 업로드 합니다.
      - **`💗 제출 완료`** 로 가득 채울 수 있도록, 스터디원 여러분들의 열띤 참여를 기대합니다 :)
      - 사유 없는 **`🖤 미제출`**, **`❤️‍🩹 일부 완료` 총합 3회 누적 시 해당 스터디에서 제적**됩니다.
@@ -68,42 +65,52 @@
 
 <table align="center" width=100%>
   <tr>
-  <td colspan=2 align=center><b>OT</b><br/>Comming Soon</td>
+  <td colspan=2 align=center><b>OT</b><br/>3/28</td>
   <td colspan=8 align=center>git 사용 방법 및  스터디 규칙 정하기</br>과제 관련 공지사항 전달 및 스터디 진행</td>
   </tr>
   <tr>
     <td rowspan = "6" colspan = "2" align="center"><b>WEEK 1</b>
       <br>
-      3/27 ~ 4/1
+      3/28 ~ 4/1
     </td>
     <td colspan = "9" align="center">
-    1.1 프로그래밍과 C언어 - 1.2 컴파일러 사용법<br>
-    2.1 C프로그램의 기본 형태와 데이터 출력 방법 - 2.2 상수와 데이터 표현 방법
-    <br></td>
+    Unit 2. Visual Studio 설치</br>
+    Unit 3. Hello, world!로 시작하기</br>
+    Unit 4. 기본 문법 알아보기 </br>
+    Unit 5. 변수 만들기<br/>
+    Unit 7. 정수 자료형 사용하기<br/>
+    Unit 8. 실수 자료형 사용하기<br/>
+    Unit 9. 문자 자료형 사용하기<br/>
+    </td>
   </tr>
   <tr>
 <td align="center">과제</td>
 <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2557"/>Hello World</td>
-<td colspan=2 align="center">Input/Output</td>
+<td colspan=2 align="center">[No Precondition]</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
-    <td align="center">🤍 유진</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_2557.c"/>💗 유진</td>
     <td align="center">🤍 준혁</td>
     
   </tr>
   <tr>
-    <td colspan = "9" align="center">3.1 변수 ~ 3.2 데이터 입력
-      <br>
-      4.1 산술, 관계, 논리 연산자 ~ 4.2 비트 연산자와 그 외의 멋진 연산자
+    <td colspan = "9" align="center">
+    Unit 10. 상수 사용하기<br/>
+    Unit 11. 입력 값을 변수에 저장하기</br>
+    Unit 12. 덧셈, 뺄셈하기</br>
+    Unit 13. 증가, 감소 연산자 사용하기</br>
+    Unit 14. 곱셈, 나눗셈 하기</br>
+    Unit 15. 나머지 연산하기</br>
+    Unit 16. 자료형의 확장과 축소 알아보기
     </td>
   </tr>
   <tr>
 <td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10869"/>사칙연산</td>
+<td colspan=2 align="center">[No Precondition]</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -117,19 +124,31 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 2</b>
+    <td rowspan = "5" colspan = "2" align="center"><b>WEEK 2</b>
       <br>
       4/3 ~ 4/9
     </td>
-    <td colspan = "9" align="center">5.1 if문 ~ 5.2 if문 활용과 switch문 ~ case문
-      <br>
-      6.1 while, for, do~while ~ 6.2 반복문 활용
+    <td colspan = "9" align="center">
+      Unit 17. if 조건문으로 특정 조건일 때 코드 실행하기<br/>
+      Unit 18. else를 사용하여 두 방향으로 분기하기<br/>
+      Unit 19. else if를 사용하여 여러 방향으로 분기하기<br/>
+      Unit 20. 비교 연산자와 삼항 연산자 사용하기<br/>
+      Unit 21. 논리 연산자 사용하기<br/>
+      Unit 22. 불 자료형 사용하기<br/>
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td rowspan=3 align="center">과제</td>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/9498"/>시험 성적</td>
+<td colspan=2 align="center">have to use 'if'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2884"/>알람 시계</td>
+<td colspan=2 align="center">have to use 'if'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2480"/>주사위 세개</td>
+<td colspan=2 align="center">have to use 'if'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
@@ -151,19 +170,39 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 3</b>
+    <td rowspan = "7" colspan = "2" align="center"><b>WEEK 3</b>
       <br>
       4/24 ~ 4/30
     </td>
-    <td colspan = "9" align="center">7.1 함수의 작성과 사용 ~ 7.2 여러가지 함수 유형
-      <br>
-      8.1 배열의 선언과 사용 ~ 8.2 문자를 저장하는 배열
+    <td colspan = "9" align="center">
+    Unit 26. switch 분기문으로 다양한 조건 처리하기<br/>
+    Unit 27. for 반복문으로 Hello, world! 100번 출력하기<br/>
+    Unit 28. while 반복문으로 Hello, world! 100번 출력하기<br/>
+    Unit 29. do while 반복문으로 최소 한 번은 실행하기<br/>
+    Unit 30. break, continue로 반복문 제어하기<br/>
+    Unit 31. 계단식으로 별 출력하기
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td rowspan=5 align="center">과제</td>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2438"/>별 찍기 - 1</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+    <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2439"/>별 찍기 - 2</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2440"/>별 찍기 - 3</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2441"/>별 찍기 - 4</td>
+<td colspan=2 align="center">have to use 'for'</td>
+  </tr>
+      <tr>
+<td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/2442"/>별 찍기 - 5</td>
+<td colspan=2 align="center">have to use 'for'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
