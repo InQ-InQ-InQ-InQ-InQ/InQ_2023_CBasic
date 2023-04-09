@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">❤️‍🩹 상현</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%83%81%ED%98%84/Week%201/Week1_2557.c"/>💗 상현</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_2557.c"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_2557.c"/>💗 유진</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%202557.c"/>💗 준혁</td>
@@ -114,10 +114,10 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">❤️‍🩹 상현</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%83%81%ED%98%84/Week%201/Week1_10869.c"/>💗 상현</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_10869.c"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_10869.c"/>💗 유진</td>
-    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%2010869.c"/>🤍 준혁</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%2010869.c"/>💗 준혁</td>
     
   </tr>
   <tr>
