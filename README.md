@@ -216,17 +216,31 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
+    <td rowspan = "6" colspan = "2" align="center"><b>WEEK 4</b>
       <br>
       5/1 ~ 5/7
     </td>
-    <td colspan = "9" align="center">9.1 포인터의 기본 ~ 9.2 포인터에 관한 궁금한 이야기
+    <td colspan = "9" align="center">Unit 34. 포인터 사용하기<br/>
+    Unit 35. 메모리 사용하기<br/>
+    Unit 36. 배열 사용하기<br/>
+    Unit 37. 2차원 배열 사용하기<br/>
+    Unit 38. 포인터와 배열 응용하기<br/>
+    Unit 39. 문자열 사용하기</br>
+    Unit 40. 입력 값을 문자열에 저장하기</br>
+    [Unit 41 ~ 46]을 참고하여 과제를 수행하세요.
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td colspan=6 align="center"><b><u><i>어서와. 여기부턴 지옥이야<br/>Vanila C로 배우는 문자열 끝장내기</b></u></i></td>
+  </tr>
+  <tr>
+    <td rowspan=2 align="center">과제</td>
+    <td colspan=2 align="center">inq_atoi</td>
+    <td colspan=2 align="center">컨벤션 참고</td>
+  </tr>
+    <tr>
+    <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10988"/>팰린드롬인지 확인하기</td>
+    <td colspan=2 align="center">have to use 'array-idx'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
