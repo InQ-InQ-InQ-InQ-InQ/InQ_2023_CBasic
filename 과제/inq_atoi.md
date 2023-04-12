@@ -65,8 +65,8 @@
     |"+2147483647"|2147483647|앞 공백 처리<br>2147483647 정상 인식|따라서 2147483647 리턴|
 
 
-- C는 기본적으로 `Camel case` 코드 작성을 권장합니다.
-  - 메서드 분리, 함수 분리를 할 계획이라면, [카멜 표기법](https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A9%9C_%ED%91%9C%EA%B8%B0%EB%B2%95) 을 참고하세요.
+- C는 기본적으로 `Snake case` 코드 작성을 권장합니다.
+  - 메서드 분리, 함수 분리를 할 계획이라면, [스네이크 케이스](https://blog.naver.com/PostView.nhn?blogId=ki630808&logNo=222175522625&categoryNo=49&parentCategoryNo=40&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)를 참고하세요.
 
 ---
 
