@@ -21,7 +21,8 @@
 - 어떠한 외부 라이브러리의 인클루드를 금지합니다.
     - ex :) <unistd.h>, <stdlib.h>, <stdio.h>
     - 테스트 목적으로 사용하는 것은 허용하나, 제출 파일 및 함수 구현 과정에서는 절대 사용할 수 없습니다.
-
+- 함정이 있어요!
+  - **정수 최댓값, 최솟값 리턴을 어떻게 할지 고심해보세요.**
 ---
 
 - 과제 평가는 다음과 같은 main문을 작성하여, 평가를 진행합니다.
@@ -44,4 +45,5 @@
     | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-4242” | 0 | 앞 공백 처리<br>+ 뒤에 -라는 문자열이 들어와 0 리턴 |
     | “&nbsp;&nbsp;&nbsp;&nbsp;-24353&nbsp;&nbsp;&nbsp;&nbsp;35” | -23453 | 앞 공백 처리<br>-24353과 35 사이에 공백 발생<br>따라서 -24353 리턴 |
     | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;어렵죠42?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;” | 0 | 앞 공백 처리<br>숫자가 먼저 입력되지 않음<br>따라서 0 리턴 |
-    | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+4212-8243” | 4212 | 앞 공백 처리<br>+ 인식 (양수)<br>4212 정상 인식<br>숫자 뒤 문자열 발생<br>따라서 4212 리턴 |
+    | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+4212-8243” | 4212 | 앞 공백 처리<br>+ 인식 (양수)<br>4212 정상 인식<br>숫자 뒤 숫자가 아닌 문자 발생<br>따라서 4212 리턴 |
+    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+52262&nbsp;&nbsp;&nbsp;&nbsp;25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|52262|앞 공백 처리</br>+ 인식(양수)</br>52262 정상 인식<br>숫자 뒤에 숫자가 아닌 문자 발생<br>따라서 52262 리턴
