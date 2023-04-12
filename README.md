@@ -235,8 +235,8 @@
   </tr>
   <tr>
     <td rowspan=2 align="center">과제</td>
-    <td colspan=2 align="center">inq_atoi</td>
-    <td colspan=2 align="center">컨벤션 참고</td>
+    <td colspan=2 align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EA%B3%BC%EC%A0%9C/inq_atoi.md"/>inq_atoi</td>
+    <td colspan=2 align="center">과제 파일 참고</td>
   </tr>
     <tr>
     <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10988"/>팰린드롬인지 확인하기</td>
