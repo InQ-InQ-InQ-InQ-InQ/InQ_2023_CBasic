@@ -71,7 +71,7 @@
   <tr>
     <td rowspan = "6" colspan = "2" align="center"><b>WEEK 1</b>
       <br>
-      3/28 ~ 4/1
+      3/31~ 4/6
     </td>
     <td colspan = "9" align="center">
     Unit 2. Visual Studio 설치</br>
@@ -126,7 +126,7 @@
   <tr>
     <td rowspan = "5" colspan = "2" align="center"><b>WEEK 2</b>
       <br>
-      4/3 ~ 4/9
+      4/7 ~ 4/13
     </td>
     <td colspan = "9" align="center">
       Unit 17. if 조건문으로 특정 조건일 때 코드 실행하기<br/>
@@ -172,7 +172,7 @@
   <tr>
     <td rowspan = "7" colspan = "2" align="center"><b>WEEK 3</b>
       <br>
-      4/24 ~ 4/30
+      4/28 ~ 5/4
     </td>
     <td colspan = "9" align="center">
     Unit 26. switch 분기문으로 다양한 조건 처리하기<br/>
@@ -218,7 +218,7 @@
   <tr>
     <td rowspan = "6" colspan = "2" align="center"><b>WEEK 4</b>
       <br>
-      5/1 ~ 5/7
+      5/5 ~ 5/11
     </td>
     <td colspan = "9" align="center">Unit 34. 포인터 사용하기<br/>
     Unit 35. 메모리 사용하기<br/>
