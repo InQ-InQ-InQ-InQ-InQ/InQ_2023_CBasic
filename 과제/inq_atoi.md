@@ -56,7 +56,7 @@
     
     | *str | return | Description |
     | --- | --- | --- |
-    | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-3535” | -3535 | 앞 공백 처리 <br>- 인식(음수)<br>정상 인식<br>3535 리턴 |
+    | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-3535” | -3535 | 앞 공백 처리 <br>- 인식(음수)<br>3535 정상 인식<br>3535 리턴 |
     | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-4242” | 0 | 앞 공백 처리<br>+ 뒤에 -라는 문자열이 들어와 0 리턴 |
     | “&nbsp;&nbsp;&nbsp;&nbsp;-24353&nbsp;&nbsp;&nbsp;&nbsp;35” | -23453 | 앞 공백 처리<br>-24353과 35 사이에 공백 발생<br>따라서 -24353 리턴 |
     | “&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;어렵죠42?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;” | 0 | 앞 공백 처리<br>숫자가 먼저 입력되지 않음<br>따라서 0 리턴 |
