@@ -71,7 +71,7 @@
   <tr>
     <td rowspan = "6" colspan = "2" align="center"><b>WEEK 1</b>
       <br>
-      3/28 ~ 4/1
+      3/31~ 4/6
     </td>
     <td colspan = "9" align="center">
     Unit 2. Visual Studio 설치</br>
@@ -90,10 +90,10 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 상현</td>
-    <td align="center">🤍 승재</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%83%81%ED%98%84/Week%201/Week1_2557.c"/>💗 상현</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_2557.c"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_2557.c"/>💗 유진</td>
-    <td align="center">🤍 준혁</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%202557.c"/>💗 준혁</td>
     
   </tr>
   <tr>
@@ -114,10 +114,10 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">🤍 상현</td>
-    <td align="center">🤍 승재</td>
-    <td align="center">🤍 유진</td>
-    <td align="center">🤍 준혁</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%83%81%ED%98%84/Week%201/Week1_10869.c"/>💗 상현</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_10869.c"/>💗 승재</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_10869.c"/>💗 유진</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%2010869.c"/>💗 준혁</td>
     
   </tr>
   <tr>
@@ -126,7 +126,7 @@
   <tr>
     <td rowspan = "5" colspan = "2" align="center"><b>WEEK 2</b>
       <br>
-      4/3 ~ 4/9
+      4/7 ~ 4/13
     </td>
     <td colspan = "9" align="center">
       Unit 17. if 조건문으로 특정 조건일 때 코드 실행하기<br/>
@@ -172,7 +172,7 @@
   <tr>
     <td rowspan = "7" colspan = "2" align="center"><b>WEEK 3</b>
       <br>
-      4/24 ~ 4/30
+      4/28 ~ 5/4
     </td>
     <td colspan = "9" align="center">
     Unit 26. switch 분기문으로 다양한 조건 처리하기<br/>
@@ -216,17 +216,31 @@
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
+    <td rowspan = "6" colspan = "2" align="center"><b>WEEK 4</b>
       <br>
-      5/1 ~ 5/7
+      5/5 ~ 5/11
     </td>
-    <td colspan = "9" align="center">9.1 포인터의 기본 ~ 9.2 포인터에 관한 궁금한 이야기
+    <td colspan = "9" align="center">Unit 34. 포인터 사용하기<br/>
+    Unit 35. 메모리 사용하기<br/>
+    Unit 36. 배열 사용하기<br/>
+    Unit 37. 2차원 배열 사용하기<br/>
+    Unit 38. 포인터와 배열 응용하기<br/>
+    Unit 39. 문자열 사용하기</br>
+    Unit 40. 입력 값을 문자열에 저장하기</br>
+    [Unit 41 ~ 46]을 참고하여 과제를 수행하세요.
     </td>
   </tr>
   <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
+<td colspan=6 align="center"><b><u><i>어서와. 여기부턴 지옥이야<br/>Vanila C로 배우는 문자열 끝장내기</b></u></i></td>
+  </tr>
+  <tr>
+    <td rowspan=2 align="center">과제</td>
+    <td colspan=2 align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EA%B3%BC%EC%A0%9C/inq_atoi.md"/>inq_atoi</td>
+    <td colspan=2 align="center">과제 파일 참고</td>
+  </tr>
+    <tr>
+    <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10988"/>팰린드롬인지 확인하기</td>
+    <td colspan=2 align="center">have to use 'array-idx'</td>
   </tr>
   <tr>
     <td align="center">성취도</td>
