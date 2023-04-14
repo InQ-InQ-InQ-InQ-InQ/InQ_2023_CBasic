@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td align="center">성취도</td>
-    <td align="center">💗 상현</td>
+    <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%EC%9D%B4%EC%83%81%ED%98%84/Week%202"/>💗 상현</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%202"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%202"/>💗 유진</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%202"/>💗 준혁</td>
