@@ -10,27 +10,27 @@
 2. fork한 레포지토리를 `git clone` 하여 본인 데스크탑 로컬 환경에 깃 저장소를 생성.
 
 3. 과제를 수행하고, 본인의 fork 레포지토리에 `git push`. [과제 컨벤션](#📝-제출-과제-컨벤션) 반드시 지켜주세요!
-  
-     - `.gitignore` 파일을 이용하여, 과제 파일을 제외한 다른 파일이 저장소에 올라가지 않게 해주세요.
-     - 커밋 및 PR 컨벤션을 반드시 지켜주세요.
+
+    - `.gitignore` 파일을 이용하여, 과제 파일을 제외한 다른 파일이 저장소에 올라가지 않게 해주세요.
+    - 커밋 및 PR 컨벤션을 반드시 지켜주세요.
 
 4. InQ 그룹의 `InQ_2023_CBasic`으로 `pull request`를 생성.
-     - 스터디 초반, git 및 협업관리 툴, 컴파일러 등 질문이 있으시다면, 팀장에게 꼭! 문의 후 진행해주세요.
-     - 과제 진행 간 어려웠던 점, 설명받고 싶은 점 등을 적어주신다면 차후 피드백 스터디에 큰 도움이 됩니다.
+    - 스터디 초반, git 및 협업관리 툴, 컴파일러 등 질문이 있으시다면, 팀장에게 꼭! 문의 후 진행해주세요.
+    - 과제 진행 간 어려웠던 점, 설명받고 싶은 점 등을 적어주신다면 차후 피드백 스터디에 큰 도움이 됩니다.
 
 5. `Main` 브랜치의 `force push`를 포함한 모든 `push`를 엄격히 제한합니다.
-   
+
 </br>
 
 ## 📝 제출 과제 컨벤션
 
 - 커밋/PR 컨벤션 : `[1주차] 김인큐 과제 제출`
-  - Command : `git commit -m "[1주차] 김인큐 과제 제출"`
+    - Command : `git commit -m "[1주차] 김인큐 과제 제출"`
 
 - 파일 이름 컨벤션 : `Week1_9876.c`
 
-  - 주차_문제번호.c 양식을 반드시 지켜주세요
-  - 문제번호는 백준(BOJ) 사이트 주소창에서 확인할 수 있습니다.
+    - 주차_문제번호.c 양식을 반드시 지켜주세요
+    - 문제번호는 백준(BOJ) 사이트 주소창에서 확인할 수 있습니다.
 
 - gitignore 초기 설정
     - `.gitignore`
@@ -41,7 +41,7 @@
 
 ## 👽️ 사용 강의
 
-  - [C언어  코딩도장](https://dojang.io/course/view.php?id=2)
+- [C언어  코딩도장](https://dojang.io/course/view.php?id=2)
 
 <br/>
 
@@ -50,14 +50,14 @@
 - 적극적으로 참여하실수록 알려드릴 수 있는게 더 많으니, 적극적으로 참여해주세요!
 - 문의 사항/개선점/특이사항은 팀장한테 언제든지 카카오톡으로 문의 주시기 바랍니다!
 - github의 Code Review 기능을 이용해, merge 전에 다른 스터디원의 코드를 자유롭게 리뷰해보세요!
--  **`🤍 진행중` / `❤️‍🩹 일부 완료` / `💗 제출 완료` / `🖤 미제출`**
+- **`🤍 진행중` / `❤️‍🩹 일부 완료` / `💗 제출 완료` / `🖤 미제출`**
 
-     - 스터디 원의 학습 현황을 주차 별로 이모지를 활용해 README에 업로드 합니다.
-     - **`💗 제출 완료`** 로 가득 채울 수 있도록, 스터디원 여러분들의 열띤 참여를 기대합니다 :)
-     - 사유 없는 **`🖤 미제출`**, **`❤️‍🩹 일부 완료` 총합 3회 누적 시 해당 스터디에서 제적**됩니다.
-     - 스터디 미참여 제적의 경우, 차후 동아리 활동에서 제한/제명 조치 될 수 있습니다.
-     - **`❤️‍🩹 일부 완료`** 의 경우, 제출 기한 D+7 까지 완료하여 Push하시면 **`💗 제출 완료`** 반영합니다.
-     - 스터디 참여가 어렵거나, 주차 별 학습 진행이 어려운 사유가 발생 할 경우, 팀장에게 문의 바랍니다.
+    - 스터디 원의 학습 현황을 주차 별로 이모지를 활용해 README에 업로드 합니다.
+    - **`💗 제출 완료`** 로 가득 채울 수 있도록, 스터디원 여러분들의 열띤 참여를 기대합니다 :)
+    - 사유 없는 **`🖤 미제출`**, **`❤️‍🩹 일부 완료` 총합 3회 누적 시 해당 스터디에서 제적**됩니다.
+    - 스터디 미참여 제적의 경우, 차후 동아리 활동에서 제한/제명 조치 될 수 있습니다.
+    - **`❤️‍🩹 일부 완료`** 의 경우, 제출 기한 D+7 까지 완료하여 Push하시면 **`💗 제출 완료`** 반영합니다.
+    - 스터디 참여가 어렵거나, 주차 별 학습 진행이 어려운 사유가 발생 할 경우, 팀장에게 문의 바랍니다.
 
 <br>
 
@@ -94,7 +94,7 @@
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_2557.c"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_2557.c"/>💗 유진</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%202557.c"/>💗 준혁</td>
-    
+
   </tr>
   <tr>
     <td colspan = "9" align="center">
@@ -118,7 +118,7 @@
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%201/week1_10869.c"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%201/Week1_10869.c"/>💗 유진</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%201/week1%2010869.c"/>💗 준혁</td>
-    
+
   </tr>
   <tr>
   <td colspan=11></td>
@@ -156,7 +156,7 @@
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%EC%9D%B4%EC%8A%B9%EC%9E%AC/Week%202"/>💗 승재</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%ED%95%9C%EC%9C%A0%EC%A7%84/Week%202"/>💗 유진</td>
     <td align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/tree/main/%ED%95%A8%EC%A4%80%ED%98%81/Week%202"/>💗 준혁</td>
-    
+
   </tr>
     <tr>
   <td colspan=11></td>
@@ -210,13 +210,13 @@
     <td align="center">🤍 승재</td>
     <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
-    
+
   </tr>
     <tr>
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "6" colspan = "2" align="center"><b>WEEK 4</b>
+    <td rowspan = "4" colspan = "2" align="center"><b>WEEK 4</b>
       <br>
       5/5 ~ 5/11
     </td>
@@ -227,38 +227,37 @@
     Unit 38. 포인터와 배열 응용하기<br/>
     Unit 39. 문자열 사용하기</br>
     Unit 40. 입력 값을 문자열에 저장하기</br>
-    [Unit 41 ~ 46]을 참고하여 과제를 수행하세요.
     </td>
   </tr>
   <tr>
 <td colspan=6 align="center"><b><u><i>어서와. 여기부턴 지옥이야<br/>Vanila C로 배우는 문자열 끝장내기</b></u></i></td>
   </tr>
   <tr>
-    <td rowspan=2 align="center">과제</td>
+    <td rowspan=1 align="center">과제</td>
     <td colspan=2 align="center"><a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_CBasic/blob/main/%EA%B3%BC%EC%A0%9C/inq_atoi.md"/>inq_atoi</td>
     <td colspan=2 align="center">과제 파일 참고</td>
-  </tr>
-    <tr>
-    <td colspan=2 align="center"><a href="https://www.acmicpc.net/problem/10988"/>팰린드롬인지 확인하기</td>
-    <td colspan=2 align="center">have to use 'array-idx'</td>
-  </tr>
   <tr>
     <td align="center">성취도</td>
     <td align="center">🤍 상현</td>
     <td align="center">🤍 승재</td>
     <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
-    
+
   </tr>
     <tr>
   <td colspan=11></td>
   </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 5</b>
+    <td rowspan = "4" colspan = "2" align="center"><b>WEEK 5</b>
       <br>
-      5/8 ~ 5/14
+      5/12 ~ 5/18
     </td>
-    <td colspan = "9" align="center">10.1 배열과 포인터의 관계 ~ 10.2 배열을 처리하는 함수</td>
+    <td colspan = "9" align="center"></td>
+    <tr>
+    <td colspan="9" align=center>
+    <b><u><i>C의 꽃. 동적할당과 메모리 관리</i></u></b>
+    </td>
+    </tr>
   </tr>
    <tr>
 <td align="center">과제</td>
@@ -271,7 +270,7 @@
     <td align="center">🤍 승재</td>
     <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
-    
+
   </tr>
     <tr>
   <td colspan=11></td>
@@ -279,12 +278,13 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 6</b>
       <br>
-      5/15 ~ 5/21
+      5/19 ~ 5/25
     </td>
     <td colspan = "9" align="center">
-      11.1 아스키 코드값과 문자 입출력 함수 ~ 11.2 버퍼를 사용하는 입력 함수
-      <br>
-      12.1 문자열과 포인터 ~ 12.2 문자열 연산 함수
+    Unit 48. 구조체 사용하기<br/>
+    Unit 49. 구조체 포인터 사용하기<br/>
+    Unit 50. 두 점 사이의 거리 구하기<br/>
+    Unit 53. 구조체 배열 사용하기<br/>
     </td>
   </tr>
   <tr>
@@ -298,7 +298,7 @@
     <td align="center">🤍 승재</td>
     <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
-    
+
   </tr>
     <tr>
   <td colspan=11></td>
@@ -306,12 +306,10 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 7</b>
       <br>
-      5/22 ~ 5/28
+      5/26 ~ 6/1
     </td>
     <td colspan = "9" align="center">
-      14.1 2차원 배열 ~ 14.2 포인터 배열
-      <br>
-      15.1 2중 포인터 ~ 15.2 함수 포인터와 void 포인터
+      Review
     </td>
   </tr>
   <tr>
@@ -325,37 +323,7 @@
     <td align="center">🤍 승재</td>
     <td align="center">🤍 유진</td>
     <td align="center">🤍 준혁</td>
-    
-  </tr>
-    <tr>
-  <td colspan=11></td>
-  </tr>
   <tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
-      <br>
-      5/29 ~
-    </td>
-    <td colspan = "9" align="center">
-      16.1 동적 할당 함수 ~ 16.2 동적 할당 저장 공간의 활용
-      <br>
-      17.1 구조체 ~ 17.2 구조체 활용, 공용체, 열거형
-    </td>
-  </tr>
-  <tr>
-<td align="center">과제</td>
-<td colspan=2 align="center">추후 공지 예정</td>
-<td colspan=2 align="center">C</td>
-  </tr>
-  <tr>
-    <td align="center">성취도</td>
-    <td align="center">🤍 상현</td>
-    <td align="center">🤍 승재</td>
-    <td align="center">🤍 유진</td>
-    <td align="center">🤍 준혁</td>
-    
-  </tr>
-    <tr>
-  <td colspan=11></td>
   </tr>
 </table>
 
